@@ -1,0 +1,20 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+   font-family: Comic Sans MS;
+   text-align: center;
+   text-color: #00008B;
+}
+
+h2 {
+    text-align: center;
+    text-color: DodgerBlue;
+}
+
+body {
+      background-color= #32CD32;
+      text-align: center;
+}
