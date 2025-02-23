@@ -1,6 +1,8 @@
 h1 {
     color: black;
     text-align: center;
+    font-family: Courier New;
+    background-color: dodgerblue;
 }
 
 p {
@@ -11,10 +13,17 @@ p {
 
 h2 {
     text-align: center;
-    text-color: DodgerBlue;
+    color: darkblue;
+    border: 8px dotted darkgreen;
+    font-family: Impact;
 }
 
 body {
       background-color= #32CD32;
       text-align: center;
 }
+
+.blue {
+   background-color: lightblue;
+   text-align: center;
+   border: 12px ridge darkblue;
