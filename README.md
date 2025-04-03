@@ -7,4 +7,5 @@ So basically Windows 7 and up!
 (If downloading website through source code, it works fine on Windows XP)
 
 # Copying?
-You are totally allowed to copy the whole website and customize it, just give me credit for making the original site. Thanks :)
+You are totally allowed to copy the whole website and customize it, just give me credit for making the original site*. Thanks :)  *If its customized so much its unrecognizable to TLW, then you dont need to
+I
