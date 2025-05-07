@@ -11,6 +11,18 @@ p {
    text-color: #00008B;
 }
 
+li {
+    font-family: Comic Sans MS;
+    text-align: center;
+    text-color: #00008B;
+}
+
+a {
+   font-family: Comic Sans MS;
+   text-align: center;
+   text-color: #00008B;
+}
+
 h2 {
     text-align: center;
     color: darkblue;
@@ -19,7 +31,8 @@ h2 {
 }
 
 body {
-      background-color= #32CD32;
+      background-image: url("bg.png");
+      background-color: #32CD32;
       text-align: center;
 }
 
