@@ -1,14 +1,26 @@
 h1 {
     color: black;
     text-align: center;
-    font-family: Courier New;
+    font-family: Courier New, Verdana;
     background-color: dodgerblue;
 }
 
 p {
-   font-family: Comic Sans MS;
+   font-family: Comic Sans MS, Comic Relief;
    text-align: center;
-   text-color: #00008B;
+   color: #00008B;
+}
+
+li {
+    font-family: Comic Sans MS, Comic Relief;
+    text-align: center;
+    color: #00008B;
+}
+
+a {
+   font-family: Comic Sans MS, Comic Relief;
+   text-align: center;
+   color: #00008B;
 }
 
 h2 {
@@ -19,7 +31,8 @@ h2 {
 }
 
 body {
-      background-color= #32CD32;
+      background-image: url("bg.png");
+      background-color: #32CD32;
       text-align: center;
 }
 
